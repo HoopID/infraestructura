@@ -1,3 +1,9 @@
+<!-- calidad:inicio -->
+![Calidad](https://img.shields.io/badge/Calidad-sin%20c%C3%B3digo-lightgrey)
+
+**Calidad de servicios:** sin código en `main` (no evaluable).
+<!-- calidad:fin -->
+
 # HoopID - Infraestructura de Base de Datos
 
 Este repositorio contiene la configuración dockerizada de la base de datos PostgreSQL y los scripts de inicialización de tablas para la plataforma **HoopID**.
