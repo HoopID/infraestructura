@@ -13,3 +13,6 @@ Este repositorio contiene la configuración dockerizada de la base de datos Post
    ```bash
    git clone <URL_DE_TU_REPOSO>
    cd hoopid-infra
+
+
+   docker-compose up -d
